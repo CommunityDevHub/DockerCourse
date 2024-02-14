@@ -10,10 +10,6 @@ services:
 
     ports:
       - 3000:3000
-
-    volumes:
-      - .:/app
-      - /app/node_modules
       
     develop:
       watch:
@@ -26,3 +22,8 @@ services:
         - path: .
           target: /app
           action: sync
+
+    volumes:
+      - .:/app
+      - /app/node_modules
+      
