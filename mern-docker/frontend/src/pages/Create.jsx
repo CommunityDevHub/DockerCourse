@@ -5,10 +5,10 @@ import { useNavigate } from "react-router-dom";
 function Create() {
   const navigate = useNavigate();
 
- const [form, setForm] = useState({
-  title: "",
-  link: "",
-  description: "",
+  const [form, setForm] = useState({
+    title: "",
+    link: "",
+    description: "",
   });
 
   const handleChange = (e) => {
