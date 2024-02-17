@@ -2,12 +2,12 @@
 
 To learn docker foundations
 
-> basic-docker
-> mern-docker
-> next-docker
-> nextjs-docker
-> python-docker
-> react-course
-> reactnative-docker
-> rust-docker
-> vite-project
+> basic-docker <br />
+> mern-docker <br />
+> next-docker <br />
+> nextjs-docker <br />
+> python-docker <br />
+> react-course <br />
+> reactnative-docker <br />
+> rust-docker <br />
+> vite-project <br />
