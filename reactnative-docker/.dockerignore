@@ -1,0 +1,22 @@
+# Expo specific files and directories
+node_modules
+.expo
+.cache
+.webpack
+.babelrc
+.babelrc.js
+.babelrc.json
+.babelrc.cjs
+.babel.config.js
+babel.config.js
+metro.config.js
+
+# General Docker ignore patterns
+.dockerignore
+.git
+.gitignore
+.vscode
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.DS_Store
